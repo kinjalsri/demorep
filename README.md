@@ -1,4 +1,5 @@
 # demorep
-this is a demo repository 
+
+this is a demo repository
 <br>
-author- kinjal 
+author- kinjal srivastava
